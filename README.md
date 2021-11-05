@@ -4,6 +4,6 @@
 - 💞️ I’m looking to collaborate with expert software engineers for better practices
 - 📫 To reach me checkout my github profile where you can find much more about me!
 
-thank you !!
+   thank you !!
 
 
