@@ -1,4 +1,4 @@
-- 👋 Hi, I’m kishan gupta
+- 👋 Hi, I’m kishan sahu
 - 💞️ I’m interested in software development with modern technology
 - 🌱 I’m currently learning web development and app development
 - 👀 I’m looking to collaborate with expert software engineers for better practices
