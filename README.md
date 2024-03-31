@@ -9,11 +9,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 📫 How to reach me: guptakishan492@gmail.com
 - ⚡ Fun fact: deep dive into node_modules 
 
-<a href="https://www.github.com/ksroyal100" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ksroyal100?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ksroyal100&label=Profile%20views&color=0e75b6&style=flat" alt="ksroyal100" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ksroyal100" target="blank"><img src="https://img.shields.io/twitter/follow/kishanSahu?logo=twitter&style=for-the-badge" alt="codewithbiki" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ksroyal100" target="blank"><img src="https://img.shields.io/twitter/follow/kishanSahu?logo=twitter&style=for-the-badge" alt="kishansahu" /></a> </p>
 
 <h3 align="left">Languages:</h3>
 <p align="left"> <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a> <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java" width="40" height="40"/> </a>  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="python" width="40" height="40"/> </a> <a href="https://www.mysql.com/"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR8UtBKO4vjdEbtVcXi3swfaMIlHiqSkICYQ&usqp=CAU" alt="mysql" width="40" height="40"/></a> </p>
