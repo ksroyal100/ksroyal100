@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ======================================================================================================================================
 <h4>A Full-Stack developer</h4>
 
-- 🔭 I’m currently working on a MERN Project
+- 💻 I’m currently working on a MERN Project
 - 💞️ I’m interested in software development with modern technology
 - 🌱 I’m currently working on web development and app development
 - 👀 I’m looking to collaborate with expert software engineers for better practices
